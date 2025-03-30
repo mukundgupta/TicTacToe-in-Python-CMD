@@ -1,5 +1,5 @@
 # TicTacToe-in-Python-CMD
-A TicTacToe game made with python that run completely in the command line interface.
+A TicTacToe game made with python that runs completely in the command line interface.
 
 No external modules required(expect the python standard library), just double-click the file to run in the command line.
 
